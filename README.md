@@ -1,9 +1,8 @@
 ## Getting Started
 
-A script shell will get a copy of the vimrc up and running on your local machine for testing purposes:
 ### Bash 
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/jarolrod/vim-python-ide/master/setup.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Eivindbergman/vim-ide/master/setup.sh)"
 ```
 
 ## Plugins
@@ -57,3 +56,6 @@ vno <right> <Nop>
 vno <up> <Nop>
 ```
 
+### Acknowledgments
+
+* Project inspired by [jarolrod's vim-python-ide](https://github.com/jarolrod/vim-python-ide)
